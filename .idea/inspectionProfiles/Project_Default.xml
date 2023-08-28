@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.contrib.admin.forms.CharField" />
+          <option value="django.contrib.admin.forms.TextInput" />
+          <option value="django.contrib.admin.forms.PasswordInput" />
+          <option value="ConvertPV.users.admin.forms" />
+          <option value="ConvertPV.users.forms.forms" />
+          <option value="gamika.api.models.City.objects" />
+          <option value="gamika.api.models.State.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
